@@ -1,0 +1,374 @@
+<table>
+    <tr>
+        <td>Python Introduction</td>
+        <td>Creator of Python</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>How it was named as python?</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Which version of python being used?</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Python Versions</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>How to verify which version is being used?</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>How to uninstall the older version</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Download Python from python.org</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Installation of Python</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>File Extensions</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>IDE</td>
+        <td>What are the IDE's available for Python?</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Microsoft Visual Studio Code</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pycharm, Spyder, JupyterNotebook, Notepad++, Atom</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Installation of MS VSCode</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>In Extension Install Python</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Shortcuts in VSCode</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Case-Sensitive</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Github</td>
+        <td>Create an account using gmail ( signup )</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Create an Repository</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Renaming the Repository</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Deleting the Repository</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Adding/uploading files into the repositiry</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fork</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Basics</td>
+        <td>Code Viewer for opening the file in smartphone</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>To open zip file in PC/Laptop install 7zip</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>To open zip file in smartphone install Zarchiver</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>make sure to update your windows</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Variables &amp; Its rules</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Ways to Assign Variables</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DataTypes</td>
+        <td>int, float, str, bool,  None</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>list, tuple, set, dict</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>bytes, bytearray, complex, enumerate, range</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Methods in Data Type</td>
+        <td>str --&gt; upper, lower, isupper, islower, swapcase…….</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>list --&gt; append, pop,  remove……….</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>tuple --&gt; count, index</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>set --&gt; update, difference,…..</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>dict --&gt; values, items, popitem,……</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>String Concatenation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Slicing</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Type Conversion and Casting</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Escape Sequences</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Input Ways</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>bin, oct, hex</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Number System</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Math Module</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Operators</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Control Statements</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>w3schools</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Core Python Programs</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>File Handling</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Error Handling</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Functions</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Numpy</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Pandas</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Adv Python</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Class and Objects</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Inerhitance -&gt; 4 Types</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Polymorphism</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Super Keyword</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Method Overloading</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Method Overriding</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Operator Overloading</td>
+        <td></td>
+    </tr>
+</table>
